@@ -29,11 +29,11 @@ public class BaseClass
 {
 	 if(Browser.equals("chrome"))
 	 {
-	 System.setProperty("webdriver.chrome.driver", "D:\\Desktop\\Free_CRM_Automationn\\resources\\chromedriver.exe");
+	 System.setProperty("webdriver.chrome.driver", "C:\\Users\\win 10\\eclipse-workspace\\FreeCRM\\resources\\chromedriver.exe");
 	 driver = new ChromeDriver();
 	 } else if (Browser.equals("firefox"))
 	  {
-		System.setProperty("webdriver.gecko.driver", "D:\\Desktop\\Free_CRM_Automationn\\resources\\geckodriver.exe"); 
+		System.setProperty("webdriver.gecko.driver", "C:\\Users\\win 10\\eclipse-workspace\\FreeCRM\\resources\\geckodriver.exe"); 
        driver = new FirefoxDriver();	  
 	  }
 	 else 

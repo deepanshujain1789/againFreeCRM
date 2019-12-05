@@ -11,7 +11,7 @@ public configReader()
 {
 	try 
 	{
-		fi = new FileInputStream("D:\\Desktop\\Free_CRM_Automationn\\src\\main\\java\\com\\CRM\\configuration\\Free_Crm.properties");
+		fi = new FileInputStream("C:\\Users\\win 10\\eclipse-workspace\\FreeCRM\\src\\main\\java\\com\\CRM\\configuration\\Free_Crm.properties");
 		prop = new Properties();
 		prop.load(fi);
 	} catch (Exception e) {

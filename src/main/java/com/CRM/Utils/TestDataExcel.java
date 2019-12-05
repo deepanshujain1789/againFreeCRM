@@ -17,7 +17,7 @@ public class TestDataExcel
  static Sheet sh;
  public static Object[][] getExceldata (String sheetName) 
  {
-	File file = new File("D:\\Desktop\\Free_CRM_Automationn\\src\\main\\java\\com\\CRM\\TestData\\CRMTestdata.xlsx");
+	File file = new File("C:\\Users\\win 10\\eclipse-workspace\\FreeCRM\\src\\main\\java\\com\\CRM\\TestData\\CRMTestdata.xlsx");
 
 		
 		try {
