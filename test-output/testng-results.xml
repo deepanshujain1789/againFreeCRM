@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="385144" started-at="2019-12-04T16:34:23 IST" finished-at="2019-12-04T16:40:48 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="385144" started-at="2019-12-04T16:34:23 IST" finished-at="2019-12-04T16:40:48 IST">
+      <class name="com.CRM.testcase.HomePageTest">
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="initialisation" is-config="true" duration-ms="12978" started-at="2019-12-04T16:34:51 IST" finished-at="2019-12-04T16:35:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:1, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="verifyUserNameTest" duration-ms="961" started-at="2019-12-04T16:35:04 IST" finished-at="2019-12-04T16:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="terminate" is-config="true" duration-ms="114" started-at="2019-12-04T16:35:05 IST" finished-at="2019-12-04T16:35:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="initialisation" is-config="true" duration-ms="14447" started-at="2019-12-04T16:35:05 IST" finished-at="2019-12-04T16:35:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="navigateToContactPage()[pri:2, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="navigateToContactPage" duration-ms="5279" started-at="2019-12-04T16:35:20 IST" finished-at="2019-12-04T16:35:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToContactPage -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="terminate" is-config="true" duration-ms="113" started-at="2019-12-04T16:35:25 IST" finished-at="2019-12-04T16:35:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="initialisation" is-config="true" duration-ms="13342" started-at="2019-12-04T16:35:25 IST" finished-at="2019-12-04T16:35:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="verfifyHomePageTest()[pri:3, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="verfifyHomePageTest" duration-ms="7" started-at="2019-12-04T16:35:38 IST" finished-at="2019-12-04T16:35:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfifyHomePageTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.HomePageTest@26aa12dd]" name="terminate" is-config="true" duration-ms="105" started-at="2019-12-04T16:35:38 IST" finished-at="2019-12-04T16:35:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.CRM.testcase.HomePageTest -->
+      <class name="com.CRM.testcase.ContactPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="16799" started-at="2019-12-04T16:35:39 IST" finished-at="2019-12-04T16:35:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="verfiyTitle()[pri:1, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="verfiyTitle" duration-ms="12" started-at="2019-12-04T16:35:55 IST" finished-at="2019-12-04T16:35:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyTitle -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="95" started-at="2019-12-04T16:35:55 IST" finished-at="2019-12-04T16:35:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="18318" started-at="2019-12-04T16:35:56 IST" finished-at="2019-12-04T16:36:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="addContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="addContactTest" duration-ms="20660" started-at="2019-12-04T16:36:14 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:36:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bherulaal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhaiya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tea stall]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[gori nagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="114" started-at="2019-12-04T16:36:35 IST" finished-at="2019-12-04T16:36:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="16837" started-at="2019-12-04T16:36:35 IST" finished-at="2019-12-04T16:36:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="addContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="addContactTest" duration-ms="20675" started-at="2019-12-04T16:36:52 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:37:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chaman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[microsoft]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajwada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="105" started-at="2019-12-04T16:37:13 IST" finished-at="2019-12-04T16:37:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="18298" started-at="2019-12-04T16:37:13 IST" finished-at="2019-12-04T16:37:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="addContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="addContactTest" duration-ms="20826" started-at="2019-12-04T16:37:31 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:37:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sagar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kinkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dudhwala]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bhangiohalla]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="146" started-at="2019-12-04T16:37:52 IST" finished-at="2019-12-04T16:37:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="18228" started-at="2019-12-04T16:37:52 IST" finished-at="2019-12-04T16:38:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="addContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="addContactTest" duration-ms="20505" started-at="2019-12-04T16:38:10 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:38:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shailu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kaul]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[paanwala]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[america]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="112" started-at="2019-12-04T16:38:31 IST" finished-at="2019-12-04T16:38:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="16637" started-at="2019-12-04T16:38:31 IST" finished-at="2019-12-04T16:38:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="deleteContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="deleteContactTest" duration-ms="17809" started-at="2019-12-04T16:38:48 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:39:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bherulaal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhaiya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tea stall]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[gori nagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="110" started-at="2019-12-04T16:39:05 IST" finished-at="2019-12-04T16:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="16060" started-at="2019-12-04T16:39:06 IST" finished-at="2019-12-04T16:39:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="deleteContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="deleteContactTest" duration-ms="17609" started-at="2019-12-04T16:39:22 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:39:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chaman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[microsoft]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajwada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="116" started-at="2019-12-04T16:39:39 IST" finished-at="2019-12-04T16:39:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="17048" started-at="2019-12-04T16:39:39 IST" finished-at="2019-12-04T16:39:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="deleteContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="deleteContactTest" duration-ms="17592" started-at="2019-12-04T16:39:56 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:40:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sagar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kinkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dudhwala]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bhangiohalla]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="117" started-at="2019-12-04T16:40:14 IST" finished-at="2019-12-04T16:40:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="initialize" is-config="true" duration-ms="16148" started-at="2019-12-04T16:40:14 IST" finished-at="2019-12-04T16:40:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="deleteContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="deleteContactTest" duration-ms="17580" started-at="2019-12-04T16:40:30 IST" data-provider="getCRMtestdata" finished-at="2019-12-04T16:40:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shailu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kaul]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[paanwala]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[america]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.ContactPageTest@3fd7a715]" name="terminate" is-config="true" duration-ms="114" started-at="2019-12-04T16:40:48 IST" finished-at="2019-12-04T16:40:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.CRM.testcase.ContactPageTest -->
+      <class name="com.CRM.testcase.LoginPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.LoginPageTest@131276c2]" name="initialize" is-config="true" duration-ms="13946" started-at="2019-12-04T16:34:23 IST" finished-at="2019-12-04T16:34:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginPage_titleTest()[pri:1, instance:com.CRM.testcase.LoginPageTest@131276c2]" name="loginPage_titleTest" duration-ms="22" started-at="2019-12-04T16:34:37 IST" finished-at="2019-12-04T16:34:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage_titleTest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.LoginPageTest@131276c2]" name="terminate" is-config="true" duration-ms="153" started-at="2019-12-04T16:34:37 IST" finished-at="2019-12-04T16:34:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.CRM.testcase.LoginPageTest@131276c2]" name="initialize" is-config="true" duration-ms="13603" started-at="2019-12-04T16:34:37 IST" finished-at="2019-12-04T16:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="logintest()[pri:2, instance:com.CRM.testcase.LoginPageTest@131276c2]" name="logintest" duration-ms="399" started-at="2019-12-04T16:34:51 IST" finished-at="2019-12-04T16:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:com.CRM.testcase.LoginPageTest@131276c2]" name="terminate" is-config="true" duration-ms="137" started-at="2019-12-04T16:34:51 IST" finished-at="2019-12-04T16:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.CRM.testcase.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
