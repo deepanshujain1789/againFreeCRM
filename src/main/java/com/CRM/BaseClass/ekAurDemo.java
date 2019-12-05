@@ -7,3 +7,4 @@ public class ekAurDemo
 	System.out.println("ek aur demo is running ");
  }
 }
+//ek comment add kra hai 
